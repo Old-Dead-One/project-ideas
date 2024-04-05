@@ -1,5 +1,3 @@
-# my-first-repo
-Test driving GitHub
-
-I added this from the command/vim on my laptop
+# project-ideas
+This repo is used to create a project board to make it easier to find repo's associated with project ideas
 
